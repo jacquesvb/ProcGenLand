@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="MapGeneratorEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="EndlessTerrain.cs" t="Include" />
+          <e p="MapDisplay.cs" t="Include" />
+          <e p="MapGenerator.cs" t="Include" />
+          <e p="MeshGenerator.cs" t="Include" />
+          <e p="Noise.cs" t="Include" />
+          <e p="TextureGenerator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProcGenLandmass.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_ProcGenLandmass.1283827148.00" t="ExcludeRecursive" />
+  </component>
+</project>
